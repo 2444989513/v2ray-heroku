@@ -25,7 +25,7 @@ cat <<-EOF > /etc/v2ray/config.json
       "streamSettings": {
         "network": "ws", 
         "wsSettings": {
-          "path": "/etc/html/www/nytbrt.html"
+          "path": "/"
         }
       }
   }
